@@ -1,5 +1,5 @@
 # SQL-practice
-# Project
+# Project (suppermart-db.tar and case-studies.sql )
 Fulfill requirement of marketing, supply chain, sales departments
 ## marketing department 
 customers who are above 36, from 36 to 45, above 45  
